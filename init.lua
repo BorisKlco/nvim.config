@@ -1,0 +1,3 @@
+require("salty")
+print("main")
+
