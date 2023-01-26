@@ -1,3 +1,1 @@
 require("salty")
-print("main")
-

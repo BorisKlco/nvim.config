@@ -1,2 +1,3 @@
 require("salty.remap")
-print("salty")
+require("salty.set")
+
